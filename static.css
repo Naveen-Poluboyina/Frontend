@@ -55,13 +55,27 @@
 .favourate-place-card{
   background-color:white;
   border-radius:16px;
-  padding: 12px;
+  padding: 16px;
 
 }
 
 .favourate-place-card-heading{
   font-family:"roboto";
   font-weight:bold;
-  font-size:12px;
-  color:red;
+  font-size:22px;
+  color:blue;
+}
+
+.favourate-place-card-des{
+  font-family: "roboto";
+  color:black;
+  
+
+}
+
+.image{
+  height: 140px;
+  width: 100px;
+  border-radius:10px;
+  margin-left: 10px
 }
