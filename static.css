@@ -1,0 +1,67 @@
+
+.bg-container{
+  background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+  background-size:cover;
+  height:100vh;
+}
+
+.tourism_card{
+  text-align:center;
+  background-color:white;
+  border-top-left-radius: 48px;
+  border-top-right-radius: 48px;
+  border-width:0px;
+  padding: 16px;
+}
+
+
+
+.main-heading{
+  color:blue;
+  font-family:"roboto";
+  font-weight: bold;
+}
+
+.des-sec{
+  color:gray;
+  font-family:"roboto";
+  font-size: 18px;
+}
+
+.button{
+  height: 32px;
+  width: 106px;
+  background-color:aqua;
+  color:whitesmoke;
+  border-width: 0px;
+  border-radius:12px;
+}
+
+.favour-places-bg-sec{
+  background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+  background-size:cover;
+  height:100vh;
+}
+
+.favourate-place-head-sec{
+  color: white;
+  font-family:"roboto";
+  font-weight:bold;
+  font-size:36px;
+  padding: 18px;
+
+}
+
+.favourate-place-card{
+  background-color:white;
+  border-radius:16px;
+  padding: 12px;
+
+}
+
+.favourate-place-card-heading{
+  font-family:"roboto";
+  font-weight:bold;
+  font-size:12px;
+  color:red;
+}
